@@ -1,6 +1,11 @@
-Author :Richmond Asemota
-github :https://github.com/arizzen
+Portfolio Website
 
+Introduction
+Author :Richmond Asemota
+Github :https://github.com/arizzen
+Linkedin: https://www.linkedin.com/in/richmond-asemota-05aaa3250/
+Deployed site: arizzen.github.io
+Blog(medium): https://medium.com/@a1.arizzen/crafting-an-interactive-portfolio-website-a-journey-of-personal-branding-662abedaad1d
 Interactive Webpage JavaScript Code for My portfolio website
 
 This JavaScript code snippet is responsible for creating various interactive behaviors on a webpage. Here's a breakdown of what each part of the code is doing:
