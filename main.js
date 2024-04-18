@@ -1,3 +1,5 @@
+/* This JavaScript code snippet is responsible for creating various interactive behaviors on a webpage.
+Here's a breakdown of what each part of the code is doing: */
 const header = document.querySelector("header");
 
 window.addEventListener("scroll", function () {
